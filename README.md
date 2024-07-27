@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/miles-maxie-84b313299/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-thebadge&logo=linkedin&logoColor=white" /></a>
 
 
-Computer Information Systems Student with an interest in cyber security specifically Security Operations. 
+I am a Computer Information Systems Student with an interest in cyber security specifically Security Operations. 
 
 My studies in Cybersecurity have led me to develop a deep intrest in Security Operations, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 #
