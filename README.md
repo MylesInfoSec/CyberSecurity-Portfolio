@@ -21,8 +21,8 @@ My studies in Cybersecurity have led me to develop a deep intrest in Security Op
 
 | Projects & Labs                                      | Tools and Software  Used      |
 |-----------------------------------------------|----------------------------|
-|  [Detection & Monitoring Lab](https://github.com/Myles0813/Active-Directory-Lab)   |  <div> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-thebadge&logo=Splunk&logoColor=00B4AB" />   <img src="https://img.shields.io/badge/-Kali Linux-557C94?&style=for-thebadge&logo=Kali Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-thebadge&logo=Windows&logoColor=0078D6" /> <img src="https://img.shields.io/badge/-Active Directory-000000?style=for-thebadge&logo=Windows&logoColor=0078D6"/> <img src="https://img.shields.io/badge/-Windows Server 2022-000000?style=for-thebadge&logo=Windows&logoColor=0078D6" /> <img src="https://img.shields.io/badge/-Atomic Red Team-FF0000?&style=for-thebadge&logo=Nessus&logoColor=white" /> </div>
-|  [Vulnerability Scan and Report Lab](https://github.com/Myles0813/Vulnerability-Scan-and-Remediation/blob/main/README.md)  |<img src="https://img.shields.io/badge/-Nessus-000000?&style=for-thebadge&logo=Nessus&logoColor=white" />
+|  [Detection & Monitoring Lab]()   |  <div> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-thebadge&logo=Splunk&logoColor=00B4AB" />   <img src="https://img.shields.io/badge/-Kali Linux-557C94?&style=for-thebadge&logo=Kali Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-thebadge&logo=Windows&logoColor=0078D6" /> <img src="https://img.shields.io/badge/-Active Directory-000000?style=for-thebadge&logo=Windows&logoColor=0078D6"/> <img src="https://img.shields.io/badge/-Windows Server 2022-000000?style=for-thebadge&logo=Windows&logoColor=0078D6" /> <img src="https://img.shields.io/badge/-Atomic Red Team-FF0000?&style=for-thebadge&logo=Nessus&logoColor=white" /> </div>
+|  [Vulnerability Scan and Report Lab]()  |<img src="https://img.shields.io/badge/-Nessus-000000?&style=for-thebadge&logo=Nessus&logoColor=white" />
 #
 
 
