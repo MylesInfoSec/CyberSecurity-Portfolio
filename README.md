@@ -11,7 +11,7 @@ My studies in Cybersecurity have led me to develop a deep intrest in Security Op
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-thebadge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?&style=for-thebadge&logo=google&logoColor=white" /> 
+
 </div>
  
 
