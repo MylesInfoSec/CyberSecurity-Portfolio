@@ -32,7 +32,6 @@ My studies in Cybersecurity have led me to develop a deep intrest in Security Op
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=forthe-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-FF5733?&style=for-thebadge&logo=Snort&logoColor=white" />
 </div>
 
@@ -51,5 +50,5 @@ My studies in Cybersecurity have led me to develop a deep intrest in Security Op
 <div>
     <img src="https://img.shields.io/badge/-Linux-000000?&style=for-thebadge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-thebadge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-thebadge&logo=Apple&logoColor=white" />
+ 
 </div>
